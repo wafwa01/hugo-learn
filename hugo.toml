@@ -1,6 +1,6 @@
 baseURL = 'https://wafwa01.github.io/hugo-learn-pages/'
 languageCode = 'en-us'
-title = 'My New Hugo Site 3'
+title = 'My New Hugo Site'
 theme = 'ananke'
 
 [menu]
