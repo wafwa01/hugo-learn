@@ -3,5 +3,5 @@
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "public"]
 	path = public
-	url = https://github.com/wafwa01/hugo-learn-pages
+	url = git@github.com:wafwa01/hugo-learn-pages
 	branch = main
